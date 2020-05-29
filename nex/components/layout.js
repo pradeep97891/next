@@ -6,7 +6,7 @@ const Layout = (props) => (
     <div>
         <Head>
             <title>
-                Plot
+                Plcdccdccdco
       </title>
             <link rel="stylesheet" href="https://bootswatch.com/4/cerulean/bootstrap.min.css" />
         </Head>
